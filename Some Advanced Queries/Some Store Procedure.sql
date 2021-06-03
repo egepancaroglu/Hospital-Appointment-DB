@@ -47,17 +47,3 @@ SELECT @total as totalPatientIstanbul;
 
 CALL getTotalPatientByCity('Ankara',@totalP);
 SELECT @totalP as total_Patient_Ankara;
-
-
-
-
-
-
-
-BEGIN TRY
-START TRANSACTION
-
-KONTROL
-BEGIN CATCH
-MESAJ
-ROLLBACK;
