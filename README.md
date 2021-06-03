@@ -1,4 +1,4 @@
----------     ER Diagram     ---------
+--------- ER Şeması --------    -
 
 ![image](https://user-images.githubusercontent.com/76057764/120701348-678aa500-c4bb-11eb-8437-eb64a11d79f4.png)
 
